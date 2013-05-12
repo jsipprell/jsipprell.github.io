@@ -1,4 +1,6 @@
-jsipprell.github.io
-===================
+Projects
+========
 
-Personal site
+[Puppet Dash Docset][]
+
+[Puppet Dash Docset]:/puppet-dash-docset
