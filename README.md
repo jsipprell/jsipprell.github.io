@@ -3,4 +3,4 @@ Projects
 
 [Puppet Dash Docset][]
 
-[Puppet Dash Docset]:/puppet-dash-docset
+[Puppet Dash Docset]:http://jsipprell.github.io/dash-puppet-docset
